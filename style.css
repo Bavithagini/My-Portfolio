@@ -1,0 +1,68 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background: #f8f8f8;
+  color: #333;
+}
+
+header {
+  background-color: #222;
+  color: white;
+  text-align: center;
+  padding: 2rem 1rem;
+  
+}
+
+section {
+  padding: 2rem;
+  max-width: 800px;
+  margin: auto;
+ 
+}
+
+h2 {
+  color: #6c4c4c;
+}
+
+ul {
+  list-style-type: square;
+}
+
+.skills{
+  background-color: white;              /* Box background */
+  border-radius: 10px;                  /* Rounded corners */
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);/* Subtle shadow */
+  padding: 20px;                        /* Inner spacing */
+  margin-bottom: 20px;                 /* Space between boxes */
+  transition: all 0.3s ease;           /* Smooth hover effect */
+}
+.contact{
+  background-color: white;
+  padding: 1rem;
+  margin: 1rem 0;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+.About{
+  background-color: white;
+  padding: 1rem;
+  margin: 1rem 0;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+.project {
+  background-color: white;
+  padding: 1rem;
+  margin: 1rem 0;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+footer {
+  background-color: #222;
+  color: white;
+  text-align: center;
+  padding: 1rem;
+  margin-top: 2rem;
+}
